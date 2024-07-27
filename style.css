@@ -103,7 +103,7 @@ nav a:hover {
 }
 .contact-info {
     background-color: #5A3A1F;
-    padding: 20px;
+    padding: 5px;
     color: #fff;
     text-align: center;
     margin-top: 100px;
@@ -127,7 +127,7 @@ nav a:hover {
     color: #fff;
     border: none;
     border-radius: 5px;
-    padding: 10px 20px;
+    padding: 5px 10px;
     margin: 5px 0;
     text-decoration: none;
     font-size: 16px;
